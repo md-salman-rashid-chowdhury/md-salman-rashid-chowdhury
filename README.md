@@ -27,4 +27,4 @@ Flutter · Dart · Riverpod · Firebase · bKash · SSLCommerz
 **Goal:** Job-ready Flutter developer by late 2026
 
 📍 Chattogram, BD  
-🔗 LinkedIn: [your-link-here]
+🔗 LinkedIn:https://www.linkedin.com/in/mohammad-salman-rashid-chowdhury
