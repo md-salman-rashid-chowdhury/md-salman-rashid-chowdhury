@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Salman 👋
+# Hello, I'm Salman 👋
 
 Flutter developer in the making — CSE student from 
 Chattogram, Bangladesh.
