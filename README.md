@@ -24,7 +24,7 @@ Documenting my journey publicly on LinkedIn.
 Flutter · Dart · Riverpod · Firebase · bKash · SSLCommerz
 
 **Currently:** Phase 1 — Dart fundamentals
-**Goal:** Job-ready Flutter developer by late 2026
+**Goal:** Job-ready Flutter developer
 
 📍 Chattogram, BD  
 🔗 LinkedIn:https://www.linkedin.com/in/mohammad-salman-rashid-chowdhury
