@@ -21,7 +21,7 @@ Currently learning Dart before Flutter (the right way).
 Documenting my journey publicly on LinkedIn.
 
 **Tech stack I'm building toward:**
-Flutter · Dart · Riverpod · Firebase · bKash · SSLCommerz
+Flutter · Dart · Riverpod · Firebase · SSLCommerz
 
 **Currently:** Phase 1 — Dart fundamentals
 **Goal:** Job-ready Flutter developer
