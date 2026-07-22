@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">Language and Tools</h2>
 
 ###
 
@@ -50,6 +50,15 @@
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="restapi" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="clean architecture" />
+</div>
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
