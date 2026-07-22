@@ -35,17 +35,32 @@
 
 ---
 
-### 🛠️ Core & Mobile
+### 🛠️ Skills
+
+<table>
+  <tr>
+    <td align="center"><b>Core & Mobile</b></td>
+    <td align="center"><b>Backend & Database</b></td>
+    <td align="center"><b>Cloud & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
 
 ![Core](https://skillicons.dev/icons?i=dart,flutter)
 
-### ⚙️ Backend & Database
+</td>
+    <td align="center">
 
 ![Backend](https://skillicons.dev/icons?i=firebase,supabase)
 
-### 🔧 Cloud & Tools
+</td>
+    <td align="center">
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)
+
+</td>
+  </tr>
+</table>
 
 ---
 
