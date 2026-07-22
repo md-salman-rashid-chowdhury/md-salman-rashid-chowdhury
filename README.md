@@ -1,23 +1,13 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
-
 ###
-
 <p data-importer="text" align="left">My name is Salman and I'm a Application Developer, from Bangladesh,Chittagong.</p>
-
 ###
-
 <h2 data-importer="text" align="left">About me</h2>
-
 ###
-
 <p data-importer="text" align="left">- 🎓 CSE Student @ BGC Trust University, Chattogram.<br>- 📱 Flutter + Fintech Specialist in the making<br>- 🌱 Currently on Phase 1 — Dart Fundamentals<br>- 💳 Learning bKash & SSLCommerz — rare in the BD market<br>- 🤖 Building toward Flutter + AI integration<br>- 📝 Documenting weekly on LinkedIn<br>- 🎯 Goal: Job-ready Flutter developer.</p>
-
 ###
-
 <h2 data-importer="text" align="left">I code with</h2>
-
 ###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
@@ -36,6 +26,25 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="riverpod"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bloc-0553B1?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="bloc"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logoColor=white" height="40" alt="bkash"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SSLCommerz-0088CC?style=for-the-badge&logoColor=white" height="40" alt="sslcommerz"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="40" alt="stripe"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" alt="gemini"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ML_Kit-FF6F00?style=for-the-badge&logo=google&logoColor=white" height="40" alt="mlkit"  />
 </div>
-
 ###
