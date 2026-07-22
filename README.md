@@ -33,18 +33,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="riverpod"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bloc-0553B1?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="bloc"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logoColor=white" height="40" alt="bkash"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SSLCommerz-0088CC?style=for-the-badge&logoColor=white" height="40" alt="sslcommerz"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="40" alt="stripe"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" alt="gemini"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ML_Kit-FF6F00?style=for-the-badge&logo=google&logoColor=white" height="40" alt="mlkit"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gemini logo"  />
 </div>
 ###
