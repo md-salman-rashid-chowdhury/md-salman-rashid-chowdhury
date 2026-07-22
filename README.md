@@ -10,10 +10,14 @@
 
 ###
 
-<table data-importer="stats" align="center" border="0">
+<table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="15">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" height="200" alt="stats graph" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" height="195" alt="stats graph" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10" height="195" alt="streak graph" />
+    </td>
   </tr>
 </table>
 
