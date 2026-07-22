@@ -40,13 +40,20 @@
 <table>
   <tr>
     <td align="center"><b>Core & Mobile</b></td>
+    <td align="center"><b>State Management</b></td>
     <td align="center"><b>Backend & Database</b></td>
     <td align="center"><b>Cloud & Tools</b></td>
   </tr>
   <tr>
     <td align="center">
 
-![Core](https://skillicons.dev/icons?i=dart,flutter)
+![Dart](https://skillicons.dev/icons?i=dart,flutter)
+
+</td>
+    <td align="center">
+
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
 
 </td>
     <td align="center">
@@ -62,10 +69,54 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center"><b>APIs & Integration</b></td>
+    <td align="center"><b>Payment Gateways</b></td>
+    <td align="center"><b>AI & ML</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+    <td align="center">
+
+![bKash](https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0088CC?style=for-the-badge&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+</td>
+    <td align="center">
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 🗺️ Roadmap Progress
+
+| Phase | Focus | Status |
+|-------|-------|--------|
+| 01 | Dart Fundamentals | 🔥 In Progress |
+| 02 | Flutter UI & Widgets | ⏳ Upcoming |
+| 03 | State Management & Architecture | ⏳ Upcoming |
+| 04 | Backend Integration & Firebase | ⏳ Upcoming |
+| 05 | Premium Skills & Polish | ⏳ Upcoming |
+| 06 | AI Era + Job Strategy | ⏳ Upcoming |
+
 ---
 
 <div align="center">
 
 *Consistency beats motivation. Showing up every day is the strategy.*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=md-salman-rashid-chowdhury&color=0175C2&style=flat)
 
 </div>
