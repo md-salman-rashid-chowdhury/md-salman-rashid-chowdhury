@@ -11,18 +11,19 @@
 ###
 
 <div data-importer="stats" align="center">
-<img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="left">About me</h2>
+  <h2 data-importer="text" align="left">About me</h2>
 
 ###
 
 <p data-importer="text" align="left">- 🎓 CSE Student @ BGC Trust University, Chattogram.<br>- 📱 Flutter + Fintech Specialist in the making<br>- 🌱 Currently on Phase 1 — Dart Fundamentals<br>- 💳 Learning bKash & SSLCommerz — rare in the BD market<br>- 🤖 Building toward Flutter + AI integration<br>- 📝 Documenting weekly on LinkedIn<br>- 🎯 Goal: Job-ready Flutter developer.</p>
 
 ###
+
+<img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 
 <h2 data-importer="text" align="left">Language and Tools</h2>
 
