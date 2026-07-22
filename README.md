@@ -10,13 +10,13 @@
 
 ###
 
-<table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="15">
+<table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" height="195" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&icon_color=7aa2f7&title_color=7aa2f7" height="195" alt="stats graph" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10" height="195" alt="streak graph" />
+      <img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" height="195" alt="streak graph" />
     </td>
   </tr>
 </table>
