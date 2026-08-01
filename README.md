@@ -21,12 +21,9 @@
 </table>
 
 ###
-
-
 <h2 data-importer="text" align="left">Language and Tools</h2>
 
 ###
-
 <div data-importer="techs" align="left">
   <!-- Row 1: Official Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
