@@ -50,13 +50,13 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
   <br><br>
   <!-- Row 2: Badges -->
-  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="riverpod" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Bloc-0553B1?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="bloc" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/SSLCommerz-0088CC?style=for-the-badge&logoColor=white" height="30" alt="sslcommerz" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="restapi" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="clean architecture" />
+<img src="https://img.shields.io/badge/Riverpod-00000000?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="riverpod" />
+<img width="8" />
+<img src="https://img.shields.io/badge/Bloc-00000000?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="bloc" />
+<img width="8" />
+<img src="https://img.shields.io/badge/SSLCommerz-00000000?style=for-the-badge&logoColor=white" height="30" alt="sslcommerz" />
+<img width="8" />
+<img src="https://img.shields.io/badge/REST_API-00000000?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="restapi" />
+<img width="8" />
+<img src="https://img.shields.io/badge/Clean_Architecture-00000000?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="clean architecture" />
 </div>
