@@ -24,36 +24,39 @@
 <h2 data-importer="text" align="left">Language and Tools</h2>
 
 ###
-<div data-importer="techs" align="left">
-  <!-- Row 1: Official Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-  <br><br>
-  <!-- Row 2: Badges -->
-  <img src="https://img.shields.io/badge/Riverpod-2C5364?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="riverpod" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bloc-4A90D9?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="bloc" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SSLCommerz-F47521?style=for-the-badge&logo=googlepay&logoColor=white" height="40" alt="sslcommerz" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/REST_API-2E8B57?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="restapi" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-6A4C93?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="clean architecture" />
-</div>
+<table data-importer="techs" align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Riverpod-2C5364?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="riverpod" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Bloc-4A90D9?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="bloc" />
+      <br><br>
+      <img src="https://img.shields.io/badge/SSLCommerz-F47521?style=for-the-badge&logo=googlepay&logoColor=white" height="40" alt="sslcommerz" />
+      <br><br>
+      <img src="https://img.shields.io/badge/REST_API-2E8B57?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="restapi" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Clean_Architecture-6A4C93?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="clean architecture" />
+    </td>
+  </tr>
+</table>
