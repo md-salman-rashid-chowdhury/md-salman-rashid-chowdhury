@@ -46,7 +46,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
   <br><br>
+  
   <!-- Row 2: Badges -->
+  
   <img src="https://img.shields.io/badge/Riverpod-2C5364?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="riverpod" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bloc-4A90D9?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="bloc" />
