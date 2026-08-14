@@ -9,10 +9,10 @@
 <h3 data-importer="text" align="left">🔥 Application Developer . Dart . Flutter . AI :</h3>
 
 ###
-<table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="10">
+<<table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="195" alt="stats graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="195" alt="stats graph" />
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
