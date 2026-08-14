@@ -1,13 +1,8 @@
 <h1 data-importer="text" align="left">Hey there Welcome👋</h1>
-
 ###
-
 <p data-importer="text" align="left">My name is Salman and I'm an Application Developer, from Bangladesh,Chittagong.</p>
-
 ###
-
 <h3 data-importer="text" align="left">🔥 Application Developer . Dart . Flutter . AI :</h3>
-
 ###
 <table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
@@ -15,14 +10,12 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="195" alt="stats graph" />
     </td>
     <td align="center">
-      <img src="https://YOUR-STREAK-DEPLOYMENT.vercel.app?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
     </td>
   </tr>
 </table>
-
 ###
 <h2 data-importer="text" align="left">Language and Tools</h2>
-
 ###
 <div data-importer="techs" align="left">
   <!-- Row 1: Official Icons -->
