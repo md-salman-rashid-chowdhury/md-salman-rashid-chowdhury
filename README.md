@@ -15,7 +15,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" height="195" alt="stats graph" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
+      <img src="https://YOUR-STREAK-DEPLOYMENT.vercel.app?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
     </td>
   </tr>
 </table>
