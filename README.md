@@ -1,9 +1,9 @@
 <h1 data-importer="text" align="left">Hey there Welcome👋</h1>
-###
+
 <p data-importer="text" align="left">My name is Salman and I'm an Application Developer, from Bangladesh,Chittagong.</p>
-###
+
 <h3 data-importer="text" align="left">🔥 Application Developer . Dart . Flutter . AI :</h3>
-###
+
 <table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center">
@@ -14,9 +14,9 @@
     </td>
   </tr>
 </table>
-###
+
 <h2 data-importer="text" align="left">Language and Tools</h2>
-###
+
 <div data-importer="techs" align="left">
   <!-- Row 1: Official Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
