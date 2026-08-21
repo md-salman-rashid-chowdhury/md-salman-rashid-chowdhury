@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=md-salman-rashid-chowdhury&show_icons=true&theme=dark&hide_border=true&border_radius=12&cache_seconds=86400" height="195" alt="stats graph" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=md-salman-rashid-chowdhury&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=12" height="195" alt="streak graph" />
     </td>
   </tr>
 </table>
