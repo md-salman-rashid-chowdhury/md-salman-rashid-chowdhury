@@ -4,7 +4,6 @@
 
 <h3 data-importer="text" align="left">🔥 Application Developer . Dart . Flutter . AI :</h3>
 
-
 <table data-importer="stats" align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center">
