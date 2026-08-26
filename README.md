@@ -16,6 +16,11 @@
   </tr>
 </table>
 
+<h2 data-importer="text" align="left">Academic Work</h2>
+<p data-importer="text" align="left">
+  🎓 Before specializing in Flutter, I built <a href="https://github.com/md-salman-rashid-chowdhury/BitClock"><b>BitClock</b></a> (native Android app) and <a href="https://github.com/md-salman-rashid-chowdhury/Regressoin_Model"><b>Regression Model</b></a> (ML) as part of my CSE coursework.
+</p>
+
 <h2 data-importer="text" align="left">Language and Tools</h2>
 
 <div data-importer="techs" align="left">
